@@ -110,5 +110,6 @@ source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme
 # export PS1="> "
 export PS1="begin "
 export PS1="; "
+export PS1="anakim rocks! 😎 "
 
 export AWS_SDK_LOAD_CONFIG=1
